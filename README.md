@@ -7,7 +7,7 @@ I'm an M.S. student in **Data-Enabled Computational Engineering and Science at B
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -19,14 +19,6 @@ I'm an M.S. student in **Data-Enabled Computational Engineering and Science at B
 
 ---
 
-### 🛠️ Tech
-
-**Languages:** Python · TypeScript · Go · SQL · C++ · R<br>
-**ML & data:** PyTorch · scikit-learn · XGBoost · pandas · NumPy · PySpark<br>
-**Agents & systems:** MCP · LLM evaluation · Kubernetes · REST APIs · Cloudflare Workers
-
----
-
-### 📫 Connect
+### Connect
 
 [LinkedIn](https://www.linkedin.com/in/yize-axle-zhao)
