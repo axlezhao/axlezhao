@@ -4,7 +4,6 @@ I'm an M.S. student in **Data-Enabled Computational Engineering and Science at B
 
 - Most recently an **AI Agent Developer Intern at Tencent Cloud**, where I built agent diagnosis, evaluation and regression-testing infrastructure
 - Interested in LLM agents, evaluation, retrieval and ranking, and physics-informed ML
-- Mandarin (native) · English (fluent)
 
 ---
 
