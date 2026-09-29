@@ -22,8 +22,8 @@ I'm an M.S. student in **Data-Enabled Computational Engineering and Science at B
 
 ### 🛠️ Tech
 
-**Languages:** Python · TypeScript · Go · SQL · C++ · R
-**ML & data:** PyTorch · scikit-learn · XGBoost · pandas · NumPy · PySpark
+**Languages:** Python · TypeScript · Go · SQL · C++ · R<br>
+**ML & data:** PyTorch · scikit-learn · XGBoost · pandas · NumPy · PySpark<br>
 **Agents & systems:** MCP · LLM evaluation · Kubernetes · REST APIs · Cloudflare Workers
 
 ---
