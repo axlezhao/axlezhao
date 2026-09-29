@@ -2,9 +2,9 @@
 
 I'm an M.S. student in **Data-Enabled Computational Engineering and Science at Brown University**, with a B.S. in Data Science from **UC Irvine**. I build **AI agents and the infrastructure that makes them reliable**: tool use over MCP, evaluation, and fault-tolerant pipelines. I also work on **search and ranking** and **scientific machine learning**.
 
-- 🧠 Most recently an **AI Agent Developer Intern at Tencent Cloud**, where I built agent diagnosis, evaluation and regression-testing infrastructure
-- 🔎 Interested in LLM agents, evaluation, retrieval and ranking, and physics-informed ML
-- 🌏 Mandarin (native) · English (fluent)
+- Most recently an **AI Agent Developer Intern at Tencent Cloud**, where I built agent diagnosis, evaluation and regression-testing infrastructure
+- Interested in LLM agents, evaluation, retrieval and ranking, and physics-informed ML
+- Mandarin (native) · English (fluent)
 
 ---
 
