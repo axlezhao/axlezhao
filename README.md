@@ -1,6 +1,6 @@
 ### Hi, I'm Yize (Axle) Zhao 👋
 
-I'm an M.S. student in **Data-Enabled Computational Engineering and Science at Brown University**, with a B.S. in Data Science from **UC Irvine**. I build **AI agents and the infrastructure that makes them reliable**: tool use over MCP, evaluation, and fault-tolerant pipelines. I also work on **search and ranking** and **scientific machine learning**.
+I'm an M.S. student in **Data-Enabled Computational Engineering and Science at Brown University**, with a B.S. in Data Science from **UC Irvine**. I build **AI agents** and the infrastructure that makes them reliable: tool use over MCP, evaluation, and fault-tolerant pipelines. I also focus on **data science and machine learning**, especially **deep learning**, with work ranging from search and ranking to physics-informed neural networks.
 
 - Most recently an **AI Agent Developer Intern at Tencent Cloud**, where I built agent diagnosis, evaluation and regression-testing infrastructure
 - Interested in LLM agents, evaluation, retrieval and ranking, and physics-informed ML
